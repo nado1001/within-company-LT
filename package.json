@@ -1,8 +1,8 @@
 {
-  "name": "frontend-lt",
+  "name": "within-company-lt",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --base /within-company-LT",
     "dev": "slidev --open",
     "export": "slidev export"
   },
