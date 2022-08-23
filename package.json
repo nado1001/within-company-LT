@@ -12,10 +12,12 @@
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
     "@slidev/theme-shibainu": "^0.0.2",
+    "slidev-theme-flayyer": "^1.0.2",
     "slidev-theme-geist": "^0.8.1"
   },
   "devDependencies": {
     "@iconify-json/uim": "^1.1.2",
+    "playwright": "^1.25.0",
     "playwright-chromium": "^1.24.2"
   }
 }
