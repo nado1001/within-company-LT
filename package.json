@@ -4,7 +4,8 @@
   "scripts": {
     "build": "slidev build --base /within-company-LT",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "dev:2": "slidev --open slides2.md",
+    "export": "slidev export --with-clicks"
   },
   "dependencies": {
     "@slidev/cli": "^0.34.3",
